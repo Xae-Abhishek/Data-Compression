@@ -4,7 +4,7 @@
 The Project Aims at reducing the Size of Data By using  
 [Huffman Algorithm](https://en.wikipedia.org/wiki/Huffman_coding)
 
-- The Project demonstrates how  size of file Can Be reduced drastically by replacing Standard [ASCII](https://en.wikipedia.org/wiki/ASCII) representatrion With the [Huffman Variable Encoding](https://www.programiz.com/dsa/huffman-coding)
+- The Project demonstrates how  size of file Can Be reduced drastically by replacing Standard [ASCII](https://en.wikipedia.org/wiki/ASCII) representation With the [Huffman Variable Encoding](https://www.programiz.com/dsa/huffman-coding)
 
 
 ## Deployment
